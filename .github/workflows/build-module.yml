@@ -14,7 +14,7 @@ jobs:
         build_env:
           - tag: "23.05.3"
             pkgarch: aarch64
-            target: sinxi
+            target: sunxi
             subtarget: cortexa53
             vermagic: "0603ef37b358fabb1f132a4507e3b82b"
 
